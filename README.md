@@ -1,6 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2DD881&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!+meu+nome+é+Thiago+Nahum;Tenho+23+anos+;Sou+do+Brasil,+SP;Eu+estudo+Java+na+EBAC;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+<h1 align="center">Olá, sou o Thiago <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DD881&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Nahumm01&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Thiago Nahum github stats" /> 
