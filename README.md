@@ -10,30 +10,21 @@ Trabalho com tecnologia na área de suporte técnico desde os 18 anos, em 2022 d
 Comecei em um bootcamp da <strong> Oracle + Alura </strong> onde escolhi o <strong> Java </strong> como minha principal stack. 
 <img align="right" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
+### Formação
 
-
-<h3>Atualmente curso:</h3>
-
-<ul>
-      <li><strong>Desenvolvedor FullStack Java </strong> na <strong>EBAC </strong></li>
-      <ul>
-      <li>
-      Curso que escolhi para aprofundar meus estudos em Java e aprender as principais tecnologias do Front-End.
-      </li>
-      </ul>   
-</ul>      
-      
-<h3>Complementos:</h3>
-<ul>
-      <li><strong>Ciência da Computação</strong> para autodidatas na <strong>OSSU</strong><a href="https://github.com/ossu/computer-science">
-	<img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
-  </a></li>
-     <ul>
-     <li>
-     Aprendizagem de toda a grade curricular de um bacharelado em Ciências da Computação de forma estruturada e gratuita pela Internet.
-     </li>
-     </ul>
-</ul>
+>
+>> ### ONE - Oracle Next Education - Alura, concluído em Junho de 2023.
+>>
+>>*O bootcamp trouxe os principais conceitos para iniciantes em programação: HTML|CSS|JS|Databases|Agile e finalizou com uma especialização em Back-end com Java + Spring.*
+>
+>> ### Formação FullStack Java Developer - EBAC, conclusão prevista em Junho de 2024.
+>>
+>>*A formação aborda as principais tecnologias do front-end: Bootstrap|Sass|Less|Grunt|Typescript|Vue|React e o back-end com seus principais conceitos: Java|APIs|Databases|SpringBoot|TDD|SQL|Docker*.
+>
+>> ### Ciências da Computação - Universidade Brasileira Livre.
+>>
+>>*Formação autodidata, estruturada pela UBL de forma que abordem toda a grade curricular de um bacharelado em Ciências da Computação com conteúdos gratuitos da internet, que utilizo para aprofundar meus estudos e construir uma base sólida como programador.*
+>
 
 <div align="center"> 
 <a href="https://instagram.com/nahumm1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
