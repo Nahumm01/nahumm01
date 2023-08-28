@@ -4,16 +4,36 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DD881&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Nahumm01&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Thiago Nahum github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahumm01&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nahumm01&bg_color=011e1d&color=80e6f4&line=0a8999&point=47fff3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Trabalho com tecnologia na área de suporte técnico desde os 18 anos, em 2022 decidi migrar para a área de programação. 
+<br>
+Comecei em um bootcamp da <strong> Oracle + Alura </strong> onde escolhi o <strong> Java </strong> como minha principal stack. 
+<img align="right" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nahumm01&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+
+
+<h3>Atualmente curso:</h3>
+
+<ul>
+      <li><strong>Desenvolvedor FullStack Java </strong> na <strong>EBAC </strong></li>
+      <ul>
+      <li>
+      Curso que escolhi para aprofundar meus estudos em Java e aprender as principais tecnologias do Front-End.
+      </li>
+      </ul>   
+</ul>      
+      
+<h3>Complementos:</h3>
+<ul>
+      <li><strong>Ciência da Computação</strong> para autodidatas na <strong>OSSU</strong><a href="https://github.com/ossu/computer-science">
+	<img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
+  </a></li>
+     <ul>
+     <li>
+     Aprendizagem de toda a grade curricular de um bacharelado em Ciências da Computação de forma estruturada e gratuita pela Internet.
+     </li>
+     </ul>
+</ul>
 
 <div align="center"> 
 <a href="https://instagram.com/nahumm1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
