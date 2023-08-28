@@ -2,14 +2,26 @@
 
 <h1 align="center">Olá, sou o Thiago <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DD881&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DD881&center=true&vCenter=true&width=1000&lines=Desenvolvedor+FullStack+Java)](https://git.io/typing-svg)
 
 Trabalho com tecnologia na área de suporte técnico desde os 18 anos, em 2022 decidi migrar para a área de programação. 
-<br>
-Comecei em um bootcamp da <strong> Oracle + Alura </strong> onde escolhi o <strong> Java </strong> como minha principal stack. 
 <img align="right" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
+<br>
+<br>
+Tive meu primeiro contato através de um bootcamp onde decidi apostar minhas fichas no desenvolvimento FullStack com <strong>Java</strong>|<strong>Angular</strong>|<strong>Typescript</strong>|<strong>React.</strong>
+<br>
+<br>
+Você pode ver meu portfólio <a href="#"><strong>Aqui!</strong></a>
+<br>
+<br>
+<div align="center"> 
+<a href="https://instagram.com/nahumm1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.youtube.com/channel/UC9DObHsM5ocP_uOpqa6PYGQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href = "mailto:nahumm01@outlook.com"> <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/thiagonahum/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+ 
+---
 ### Formação
 
 >
@@ -26,12 +38,7 @@ Comecei em um bootcamp da <strong> Oracle + Alura </strong> onde escolhi o <stro
 >>*Formação autodidata, estruturada pela UBL de forma que abordem toda a grade curricular de um bacharelado em Ciências da Computação com conteúdos gratuitos da internet, que utilizo para aprofundar meus estudos e construir uma base sólida como programador.*
 >
 
-<div align="center"> 
-<a href="https://instagram.com/nahumm1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.youtube.com/channel/UC9DObHsM5ocP_uOpqa6PYGQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href = "mailto:nahumm01@outlook.com"> <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/thiagonahum/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+---
   
 
 ### Stacks:
