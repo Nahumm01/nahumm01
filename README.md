@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2DD881&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF6000&height=120&section=header"/>
 
 <h1 align="center">Olá, sou o Thiago <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DD881&center=true&vCenter=true&width=1000&lines=Desenvolvedor+FullStack+Java)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA559&center=true&vCenter=true&width=1000&lines=Desenvolvedor+FullStack+Java)](https://git.io/typing-svg)
 
 Trabalho com tecnologia na área de suporte técnico desde os 18 anos, em 2022 decidi migrar para a área de programação. 
 <img align="right" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
@@ -37,6 +37,11 @@ Você pode ver meu portfólio <a href="#"><strong>Aqui!</strong></a>
 >>
 >>*Formação autodidata, estruturada pela UBL de forma que abordem toda a grade curricular de um bacharelado em Ciências da Computação com conteúdos gratuitos da internet, que utilizo para aprofundar meus estudos e construir uma base sólida como programador.*
 >
+<p align="center">
+  <a href="https://github.com/ossu/computer-science">
+	<img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
+  </a>
+</p>
 
 ---
   
@@ -73,4 +78,4 @@ Você pode ver meu portfólio <a href="#"><strong>Aqui!</strong></a>
 <br></div>
   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF6000&height=120&section=footer"/>
