@@ -72,9 +72,6 @@ Você pode ver meu portfólio <a href="#"><strong>Aqui!</strong></a>
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 
-<br>
-<br>
-
 ---
 
 [![card](https://github-readme-stats.vercel.app/api?username=nahumm01&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
