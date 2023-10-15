@@ -76,7 +76,7 @@ Você pode ver meu portfólio <a href="#"><strong>Aqui!</strong></a> (Em constru
 
 
 <div  align="center">
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nahumm01&theme=dark&hide_border=false" alt="Github stats" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahumm01&theme=dark&hide_border=false" alt="Github stats" />
 <br>
 <br>
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nahumm01&layout=compact&langs_count=8&theme=dark"/>
