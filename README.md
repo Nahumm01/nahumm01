@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF6000&height=120&section=header"/>
 
-<h1 align="center">Olá, sou o Thiago <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="center">Olá, sou o Thiago <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA559&center=true&vCenter=true&width=1000&lines=Desenvolvedor+FullStack+Java)](https://git.io/typing-svg)
 
@@ -11,7 +11,7 @@ Trabalho com tecnologia na área de suporte técnico desde os 18 anos, em 2022 d
 Tive meu primeiro contato através de um bootcamp onde decidi apostar minhas fichas no desenvolvimento FullStack com <strong>Java</strong>|<strong>Angular</strong>|<strong>Typescript</strong>|<strong>React.</strong>
 <br>
 <br>
-Você pode ver meu portfólio <a href="#"><strong>Aqui!</strong></a>
+Você pode ver meu portfólio <a href="#"><strong>Aqui!</strong></a> (Em construção)
 <br>
 <br>
 <div align="center"> 
@@ -74,13 +74,21 @@ Você pode ver meu portfólio <a href="#"><strong>Aqui!</strong></a>
 
 ---
 
+
+<div  align="center">
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nahumm01&theme=dark&hide_border=false" alt="Github stats" />
- 
+	
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nahumm01&layout=compact&langs_count=8&theme=dark"/>
+<br>
+<br>
+<div>	
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br>	
+<p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Nahumm01}/count.svg" /></p> 
-<br></div>
+<br>
+</div>
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF6000&height=120&section=footer"/>
