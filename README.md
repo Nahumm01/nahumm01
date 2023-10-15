@@ -74,8 +74,6 @@ Você pode ver meu portfólio <a href="#"><strong>Aqui!</strong></a>
 
 ---
 
-[![card](https://github-readme-stats.vercel.app/api?username=nahumm01&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![nahumm01](https://github-readme-stats.vercel.app/api/top-langs/?username=nahumm01&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nahumm01&theme=dark&hide_border=false" alt="Github stats" />
  
 
