@@ -33,15 +33,6 @@ Você pode ver meu portfólio <a href="#"><strong>Aqui!</strong></a> (Em constru
 >>
 >>*A formação aborda as principais tecnologias do front-end: Bootstrap|Sass|Less|Grunt|Typescript|Vue|React e o back-end com seus principais conceitos: Java|APIs|Databases|SpringBoot|TDD|SQL|Docker*.
 >
->> ### Ciências da Computação - Universidade Brasileira Livre.
->>
->>*Formação autodidata, estruturada pela UBL de forma que abordem toda a grade curricular de um bacharelado em Ciências da Computação com conteúdos gratuitos da internet, que utilizo para aprofundar meus estudos e construir uma base sólida como programador.*
->
-<p align="center">
-  <a href="https://github.com/ossu/computer-science">
-	<img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
-  </a>
-</p>
 
 ---
   
